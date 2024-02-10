@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["**Помощик BOOM**"];
+const statusMessages = ["Помощик BOOM"];
 
 
 let currentIndex = 0;
